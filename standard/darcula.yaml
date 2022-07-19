@@ -1,8 +1,10 @@
-
-accent: '#caa9fa'
-background: '#282a36'
+background_image:
+  path: standard/mandalas.jpg
+  opacity: 13
+accent: '#ffffff'
+background: '#000000'
 details: darker
-foreground: '#f8f8f2'
+foreground: '#ffffff'
 terminal_colors:
   bright:
     black: '#282a35'
